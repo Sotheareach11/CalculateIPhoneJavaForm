@@ -10,9 +10,7 @@ public class Calculator extends javax.swing.JFrame {
     private double currentSum = 0;
     
     public Calculator() {
-
         initComponents();
-
     }
 
     @SuppressWarnings("unchecked")
